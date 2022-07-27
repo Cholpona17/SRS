@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.style_img {
+    border-radius: 50%;
+    margin-top: 3%;
+}
+
+.style_name {
+    font-weight: bold;
+}
+
+.style_login {
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.style_imgFoll {
+    width: 50px;
+    height: 40px;
+}
+
+.style_div6 {
+    width: 20%;
+    display: flex;
+    margin-top: 3%;
+
+}
+
+.style_following {
+    margin-left: 10px;
+}
+
+.style_h {
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.style_p {
+    color: rgba(0, 0, 0, 0.55);
+}
